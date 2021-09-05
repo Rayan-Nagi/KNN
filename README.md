@@ -1,4 +1,4 @@
-# Project: KNN Classifier and Data Pre-processing
+# KNN Classifier and Data Pre-processing
 Small project to apply basic data exploring, pre-processing, and cleaning. Then build a KNN classification model and compare performance
 
 
@@ -12,6 +12,7 @@ Small project to apply basic data exploring, pre-processing, and cleaning. Then 
  
 ### KNN Classifier
 The k-nearest neighbors (KNN) algorithm is a simple, easy-to-implement supervised machine learning algorithm that can be used to solve both classification and regression problems, it is more widely used in classification problems in the industry. The KNN algorithm assumes that similar things exist in close proximity. it works on a principle assuming every data point falling in near to each other is falling in the same class. In other words, it classifies a new data point based on similarity.
+
 KNN algorithms decide a number k which is the nearest Neighbor to that data point that is to be classified. If the value of k is 5 it will look for 5 nearest Neighbors to that data point.The simple version of the K-nearest neighbour classifier algorithms is to predict the target label by finding the nearest neighbour class. The closest class to the point which is to be classified is calculated using Euclidean distance. 
  
  
