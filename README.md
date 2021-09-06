@@ -3,11 +3,10 @@ Small project to apply basic data exploring, pre-processing, and cleaning. Then 
 
 
 ## Specific Objectives:
-- Establish software stack to carry out data analysis tutorials and projects
 - Load datasets and perform some exploratory plots.
 - Study how to apply some of basic data cleaning and preprocessing techniques.
 - Gain experience on the use of moments. 
-- Build kNN classifier and explore evaluation metrics and methods.
+- Build KNN classifier and explore performance evaluation and metrics.
  
  
 ## KNN Classifier
