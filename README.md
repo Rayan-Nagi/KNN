@@ -16,9 +16,8 @@ KNN algorithms decide a number k which is the nearest Neighbor to that data poin
  
  
 ## Datasets
-**Iris Dataset:** This dataset is a classic and fairly simple benchmark for basic machine learning algorithms. It includes different features (attributes) of three Iris flower species (setosa, versicolor, virginica). The rows being the samples (50) and the columns being: Sepal Length, Sepal Width, Petal Length and Petal Width
-
-**Heart Dataset:** The dataset contains 14 features (attributes) and 303 instances. The features are multivariate with types - categorical, numeric, ordinal, binary. The target is a binary variable indicating the presence and absence of heart disease using 1 and 0 respectively.
+- **Iris Dataset:** This dataset is a classic and fairly simple benchmark for basic machine learning algorithms. It includes different features (attributes) of three Iris flower species (setosa, versicolor, virginica). The rows being the samples (50) and the columns being: Sepal Length, Sepal Width, Petal Length and Petal Width.
+- **Heart Dataset:** The dataset contains 14 features (attributes) and 303 instances. The features are multivariate with types - categorical, numeric, ordinal, binary. The target is a binary variable indicating the presence and absence of heart disease using 1 and 0 respectively.
  
  
 ## Part 1: Data Exploration
